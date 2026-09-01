@@ -47,22 +47,22 @@
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-netty</artifactId>
-            <version>1.35.0</version>
+            <version>1.84.0</version>
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-protobuf</artifactId>
-            <version>1.35.0</version>
+            <version>1.84.0</version>
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-stub</artifactId>
-            <version>1.35.0</version>
+            <version>1.84.0</version>
         </dependency>
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>protoc-gen-grpc-java</artifactId>
-            <version>1.35.0</version>
+            <version>1.84.0</version>
             <type>pom</type>
         </dependency>
     </dependencies>
